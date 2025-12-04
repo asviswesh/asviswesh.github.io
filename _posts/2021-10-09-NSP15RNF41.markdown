@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Investigating the Interaction between SARS-CoV-2 NSP15 and a Human E3 Ubiquitin Ligase Using In Silico Methods"
+date:   2021-10-09 22:21:59 +00:00
+image: images/ismb.png #TODO Change!
+categories: research
+authors: "<strong>Annika Viswesh</strong>, Soichi Wakatsuki"
+venue: "ISMB"
+# arxiv:
+# code: 
+---
