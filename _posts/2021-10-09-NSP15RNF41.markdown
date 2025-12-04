@@ -6,6 +6,6 @@ image: images/ismb.png #TODO Change!
 categories: research
 authors: "<strong>Annika Viswesh</strong>, Soichi Wakatsuki"
 venue: "ISMB"
-# arxiv:
-# code: 
+arxiv: https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf
+code: https://github.com/asviswesh/wakatsuki_stanford/blob/main/dali_script.py
 ---
